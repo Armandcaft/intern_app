@@ -1,0 +1,12 @@
+[
+  {
+    "_id": "8e10d0b1-ff55-417f-bbc2-34d63647b1b5",
+    "name": "(Global Env)",
+    "default": false,
+    "global": true,
+    "sortNum": -2,
+    "created": "2023-01-03T16:11:59.441Z",
+    "modified": "2023-01-03T16:11:59.441Z",
+    "data": []
+  }
+]
